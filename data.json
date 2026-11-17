@@ -45,7 +45,7 @@
         "name": "Партия Яблоко",
         "price": 16900,
         "unit": "руб/снятие",
-        "img": "Party.png",
+        "img": "images/Party.png",
         "buttonText": "Иноагенты",
         "category": "other",
         "rating": 2.1
