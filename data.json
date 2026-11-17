@@ -4,7 +4,7 @@
         "name": "Яблоко Гала",
         "price": 200,
         "unit": "руб/кг.",
-        "img": "https://placehold.co/300x200?text=Gala",
+        "img": "images/Gala.jpg",
         "badge": "Хит",
         "buttonText": "В корзину",
         "category": "sweet",
@@ -15,7 +15,7 @@
         "name": "Гренни Смит",
         "price": 190,
         "unit": "руб/кг",
-        "img": "https://placehold.co/300x200?text=Granny+Smith",
+        "img": "images/grannyS.jpg",
         "buttonText": "В корзину",
         "category": "sour",
         "rating": 4.4
@@ -25,7 +25,7 @@
         "name": "Фуджи",
         "price": 220,
         "unit": "руб/кг",
-        "img": "https://placehold.co/300x200?text=Fuji",
+        "img": "images/Fudshi.jpg",
         "buttonText": "В корзину",
         "category": "sweet",
         "rating": 4.8
@@ -35,7 +35,7 @@
         "name": "Криппс Пинк",
         "price": 170,
         "unit": "руб/кг",
-        "img": "https://placehold.co/300x200?text=Cripps+Pink",
+        "img": "images/Cripps-Pink.jpg",
         "buttonText": "Нет в наличии",
         "category": "mixed",
         "rating": 4.5
@@ -45,7 +45,7 @@
         "name": "Партия Яблоко",
         "price": 16900,
         "unit": "руб/снятие",
-        "img": "https://placehold.co/300x200?text=Party",
+        "img": "Party.webp",
         "buttonText": "Иноагенты",
         "category": "other",
         "rating": 2.1
